@@ -1,2 +1,2 @@
 # computer-organization-HW
-HW
+Complete HW codes, with instructions included.
